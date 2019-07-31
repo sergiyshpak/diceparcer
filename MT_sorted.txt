@@ -1,0 +1,27 @@
+Baker, MT
+Billings, MT   3
+Bozeman, MT   2
+Brockton, MT
+Butte, MT          2
+Butte-silverbow, MT
+Fairview, MT
+Glendive, MT
+Great Falls, MT        9
+Greatfalls, MT     2
+Helena, MT    9
+Kremlin, MT
+Missoula, MT
+Missoula, MT
+Missoula, MT
+Missoula, MT
+
+Poplar, MT
+Saint Louis, MT
+Savage, MT
+Scobey, MT
+Sidney, MT
+Terry, MT
+Virginia City, MT
+Whitefish, MT
+Wibaux, MT
+Wolf Point, MT
